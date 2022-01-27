@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pdfgentest/static/css/main.073c9b0a.css",
+    "main.js": "/pdfgentest/static/js/main.60166c50.js",
+    "static/js/787.296e6b74.chunk.js": "/pdfgentest/static/js/787.296e6b74.chunk.js",
+    "static/media/logo.svg": "/pdfgentest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pdfgentest/index.html",
+    "main.073c9b0a.css.map": "/pdfgentest/static/css/main.073c9b0a.css.map",
+    "main.60166c50.js.map": "/pdfgentest/static/js/main.60166c50.js.map",
+    "787.296e6b74.chunk.js.map": "/pdfgentest/static/js/787.296e6b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60166c50.js"
+  ]
+}
